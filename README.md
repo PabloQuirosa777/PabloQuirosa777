@@ -12,7 +12,7 @@
 
 🔭 Experiencia Profesional como desarrollador de Software : El desarrollo de una aplicación web para la Start-up Coolx. Mi papel como Full-Stack fue la construcción con React de la parte front, apoyar en la maquetación y responsive de la web y como back asentar la funcionalidad y conexión con la base de datos.
 
-🤠Experiencia Profesional: He trabajado un año como Recruiter en una ETT y dos años como técnico social en Cruz Roja.
+🤠Experiencia Profesional en otros sectores: He trabajado un año como Recruiter en una ETT y dos años como técnico social en Cruz Roja.
 
 🎓 Formación: Grado en Psicología, Master de RRHH en ESIC, Bootcamp (Socratech): Full-Stack Web Developer. Inglés B2. Curso de Excel Avanzado. Formación en emprendimiento e inmersión lingüística en Berlín.
 
