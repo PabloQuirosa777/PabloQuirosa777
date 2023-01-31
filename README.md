@@ -17,7 +17,7 @@
 ## Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB")
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -25,14 +25,14 @@
 
 ## Projects
 
-  ### Java / Spring Boot / Docker/ Spring Cloud / Kafka / JUnit Testing / Spring Security / Spring Batch /  
+### Java / Spring Boot / Docker / Spring Cloud / Kafka / JUnit Testing / Spring Security / Spring Batch /  
 
-  * [Bosonit Training](https://github.com/PabloQuirosa777/Spring-Boot.git)
+* [Bosonit Training](https://github.com/PabloQuirosa777/Spring-Boot.git)
 
-  ### React / Node Js / MySQL
+### React / Node Js / MySQL
 
-  * [Coolx](https://github.com/PabloQuirosa777/Coolx.git)
+* [Coolx](https://github.com/PabloQuirosa777/Coolx.git)
 
-  ### JavaScript / Node Js / MySQL 
+### JavaScript / Node Js / MySQL 
 
-  * [Proyecto de mitad de Bootcamp](https://github.com/PabloQuirosa777/Proyecto-mitad-de-Bootcamp.git)
+* [Proyecto de mitad de Bootcamp](https://github.com/PabloQuirosa777/Proyecto-mitad-de-Bootcamp.git)
